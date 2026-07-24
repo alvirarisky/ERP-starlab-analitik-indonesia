@@ -1,0 +1,11 @@
+{
+ "db_name": "_fa91cbe3c95cb0a5",
+ "db_password": "GANTI_DENGAN_PASSWORD_ASLI",
+ "db_type": "mariadb",
+ "db_user": "_fa91cbe3c95cb0a5",
+ "installed_apps": [
+  "frappe",
+  "erpnext",
+  "starlab_lab_ops"
+ ]
+}
